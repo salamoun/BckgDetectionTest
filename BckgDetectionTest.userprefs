@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{57052F68-AF7E-41B7-8F26-F1FBBCA775EF}|Default">
+  <MonoDevelop.Ide.ItemProperties.BckgDetectionTest.Droid PreferredExecutionTarget="Android.07b6584e" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.BckgDetectionTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D45B64B-6C05-4156-A4CA-E5F890E35E93">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BckgDetectionTest.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
